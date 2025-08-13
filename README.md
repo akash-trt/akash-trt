@@ -1,19 +1,3 @@
-# 👋 Hi, I'm Akash Torath!
-
-🎓 Electronics & Communication Engineering @ Ramaiah Institute of Technology  
-🚀 Full Stack Developer | Passionate about Web & Backend Development  
-🖥️ Exploring AI & Machine Learning | Always building & learning!
-
----
-
-## 📝 About Me
-
-- 🌱 Always working on exciting full-stack & ML projects  
-- 🚀 Learning Cloud, CI/CD, Cloud Deployment (AWS)  
-- 💡 Interested in scalable web apps, real-time systems, and smart solutions
-
----
-
 ## 🛠️ Languages & Tools
 
 <p align="center">
@@ -75,45 +59,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/><br>AWS
   </div>
 </p>
-
----
-
-## 📚 Topics & Libraries I've Worked With
-
-- **React Ecosystem:** React.js, React Router, React Hooks  
-- **Backend:** Node.js, Express.js, REST APIs, WebSocket.io (real-time communication)  
-- **Databases:** MongoDB, SQL  
-- **State Management:** Context API  
-- **Dev Tools:** Git, GitHub, Postman, VS Code  
-
----
-
-## 🎯 Core Concepts
-
-`Data Structures & Algorithms (Java)` `OOP` `DBMS` `OS` `Computer Networks`
-
----
-
-## 🏆 Projects
-
-- **Real-Time Chat App**: WebSocket-based messaging with JWT auth  
-- **Food Demand Predictor**: ML model for food wastage reduction (Random Forest, Streamlit)  
-- **DealDash**: Campus marketplace with secure listings & chat  
-
----
-
-## 👨‍🎓 Education
-
-- **B.E. Electronics & Communication**  
-  Ramaiah Institute of Technology, 2022-2026 (CGPA: 8.21)  
-
----
-
-## 📬 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-torath)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashtrt31@gmail.com)
-
----
-
-> 🙏 Thanks for visiting! Always open to collaboration & learning together.
