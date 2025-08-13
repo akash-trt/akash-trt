@@ -18,7 +18,7 @@
 
 ### *Languages & Frameworks*
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nodejs,express,django,mongodb,postgres,JWT,python" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nodejs,express,django,mongodb,postgres,python,jwt" height="40"/>
 </p>
 
 ### *Tools & Platforms*
