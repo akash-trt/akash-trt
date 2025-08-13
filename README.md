@@ -15,7 +15,6 @@
 ---
 
 ## 🛠️ Languages & Tools
-
 <div>
   <div align="center" style="display: inline-block; text-align: center; margin: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/><br>Java
