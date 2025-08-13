@@ -18,7 +18,7 @@
 
 ### *Languages & Frameworks*
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nodejs,express,django,mongodb,postgres,go,python" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nodejs,express,django,mongodb,postgres,JWT,python" height="40"/>
 </p>
 
 ### *Tools & Platforms*
@@ -55,7 +55,7 @@
 ## 👨‍🎓 Education
 
 - **B.E. Electronics & Communication**  
-  Ramaiah Institute of Technology, 2022-2026 (CGPA: 8.21)  
+  Ramaiah Institute of Technology
 
 ---
 
